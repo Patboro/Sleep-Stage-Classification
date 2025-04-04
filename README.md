@@ -1,6 +1,6 @@
 # Sleep Stage Classification
 
-This repository contains a deep learning-based pipeline for classifying sleep stages from physiological data. The system leverages a ResNet architecture implemented in PyTorch to automatically identify different REM and non-REM stages.
+This repository contains a deep learning-based pipeline for classifying sleep stages from Electroencephalography (EEG) data. The system leverages a ResNet architecture implemented in PyTorch to automatically identify different REM and non-REM stages.
 
 ## Project Overview
 
