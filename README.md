@@ -28,48 +28,6 @@ The goal of this project is to develop a robust and efficient model capable of a
 └── README.md                 # Project documentation
 ```
 
-## Installation
-
-To set up the environment for this project, follow these steps:
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/Patboro/Sleep-Stage-Classification.git
-   ```
-
-2. **Navigate to the project directory**:
-
-   ```bash
-   cd Sleep-Stage-Classification
-   ```
-
-3. **Install the required dependencies**:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## Usage
-
-### Data Preparation
-
-Ensure that your dataset is organized appropriately and that the data preprocessing scripts are configured to locate and process your data correctly. Modify the `preprocess.py` script in the `data_preprocessing` directory as needed to accommodate your dataset's structure and format.
-
-### Training the Model
-
-To train the sleep stage classification model, execute the `main.py` script:
-
-```bash
-python main.py
-```
-
-This script will initiate the training process, including data loading, model training, and evaluation. Monitor the console output for training progress and performance metrics.
-
-### Evaluation and Visualization
-
-Post-training, utilize the visualization tools provided to assess model performance. These tools can generate plots of training and validation loss, accuracy metrics, and confusion matrices to aid in interpreting the model's effectiveness.
-
 
 ## License
 
